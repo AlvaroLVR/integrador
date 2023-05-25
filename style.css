@@ -1,0 +1,26 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    
+}
+
+.morfo{
+    width: auto;
+    height: auto;
+    padding: 2rem;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 20px 20px 60px #bebebe,
+                    -20px -20px 60px #ffffff;
+    
+}
+
+
+#pointer{
+    height: 30px;
+    position: absolute;
+    bottom: 7rem;
+    right: 30rem;
+}
